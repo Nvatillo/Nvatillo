@@ -65,7 +65,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/francisco-gajardo-perez/"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="https://www.linkedin.com/in/francisco-gajardo-perez/"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/12/12/174857.png"></a>
 
 </p>
 
