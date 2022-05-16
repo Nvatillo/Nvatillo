@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Exploración de nuevas tecnologías y desarrollo de soluciones de software.
+- 🤔 &nbsp; Exploro de nuevas tecnologías y desarrollo de soluciones de software.
 
 - 🎓 &nbsp; Estudio Ingenieria en ejectucion en informatica.
 
