@@ -31,7 +31,7 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Por aprender</h3>
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase 
 
