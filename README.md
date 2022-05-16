@@ -6,13 +6,13 @@
 
 
 
-- 🤔 &nbsp; Exploro de nuevas tecnologías y desarrollo de soluciones de software.
+- 🤔 &nbsp; Exploro nuevas tecnologías y desarrollo de soluciones de software.
 
 - 🎓 &nbsp; Estudio Ingenieria en ejectucion en informatica.
 
 - 🌱 &nbsp; Actualmente me enfoco en seguir aprendiendo mas sobre front, como Angular, React, React Native.
 
-- ✍️ &nbsp; Mi pasa tiempo es crear aplicaciones webs.
+- ✍️ &nbsp; Mi pasatiempo es crear aplicaciones webs.
 
 
 
