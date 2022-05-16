@@ -65,7 +65,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/francisco-gajardo-perez/"><img alt="LinkedIn" src="https://www.linkedin.com/in/francisco-gajardo-perez/"></a>
+<a href="https://www.linkedin.com/in/francisco-gajardo-perez/"><img alt="LinkedIn" src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BbXiXi9wnQeeZF1szFVtFsA%3D%3D"></a>
 
 </p>
 
@@ -73,7 +73,7 @@
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Nvatillo.Nvatillo)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Nvatillo.Nvatillo)  
 
 
 
