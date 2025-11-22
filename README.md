@@ -30,20 +30,9 @@
 -->
 
 
-
-<h3>🛠 Por aprender</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase 
-
 <hr>
 
 
-
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nvatillo&show_icons=true)](https://github.com/shivam0110)
-
-<br/>
 
 <br/>
 
