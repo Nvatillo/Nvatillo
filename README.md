@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp;  Java | C# | MySQL | TypeScript 
+- 💻 &nbsp;  Java | C# | MySQL | TypeScript | Golang | Experimentos | Feature Flags etc 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Angular 
 
 <!--
