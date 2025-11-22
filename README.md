@@ -23,18 +23,8 @@
 - 💻 &nbsp;  Java | C# | MySQL | TypeScript | Golang | Experimentos | Feature Flags etc 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Angular 
 
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
--->
 
 
-<hr>
-
-
-
-<br/>
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
